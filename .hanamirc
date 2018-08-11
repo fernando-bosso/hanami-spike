@@ -1,0 +1,3 @@
+project=bookstore
+test=rspec
+template=erb
